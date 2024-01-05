@@ -1,7 +1,8 @@
 repo_name: lilcashpl/Vulkan-Samples
 report_id: a116ff09423b6e77c994c5a2cb7253da
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-02T09:09:44+00:00'
+timestamp: '2024-01-05T08:31:48+00:00'
 requested_by: tomadamatkinson
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: GLSL
   description: A high-level C-style language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -74,6 +81,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/docker/Dockerfile
   detection_source: ".github/docker/Dockerfile"
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
@@ -85,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -95,6 +104,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/docker/Dockerfile
   detection_source: ".github/docker/Dockerfile"
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
@@ -106,6 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -115,6 +126,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/workflows/build.yml
   detection_source: ".github/workflows/build.yml"
   last_updated_by: swinston
   last_updated_on: 2023-06-16 17:47:30.000000000 Z
@@ -127,6 +139,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/docker/Dockerfile
   detection_source: ".github/docker/Dockerfile"
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
@@ -138,6 +151,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/docker/Dockerfile
   detection_source: ".github/docker/Dockerfile"
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
@@ -149,6 +163,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Samples/blob/main/.github/docker/Dockerfile
   detection_source: ".github/docker/Dockerfile"
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
