@@ -2,7 +2,7 @@ repo_name: lilcashpl/Vulkan-Samples
 report_id: a116ff09423b6e77c994c5a2cb7253da
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:31:48+00:00'
+timestamp: '2024-02-29T18:55:31+00:00'
 requested_by: tomadamatkinson
 provider: github
 branch: main
@@ -73,7 +73,7 @@ tools:
   detection_source_url: https://github.com/lilcashpl/Vulkan-Samples
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -86,7 +86,7 @@ tools:
   last_updated_by: Tom Atkinson
   last_updated_on: 2023-06-15 23:18:48.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
